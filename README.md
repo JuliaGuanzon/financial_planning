@@ -110,7 +110,7 @@ The most important piece of code we need to run is the imports. Without these, i
 
 **Creating the Financial Planner**
 
-In this section, we will make API calls to pull the most recent information on Bitcoin and Ethereum. The use of *json.dumps* will assist in pulling the data from API source.
+In this section, we will make API calls to pull the most recent information on Bitcoin and Ethereum. The use of *json.dumps* will assist in pulling and formatting the data from API source.
 
 ```
 btc_url = "https://api.alternative.me/v2/ticker/Bitcoin/?convert=USD"
