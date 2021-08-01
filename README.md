@@ -143,7 +143,7 @@ By merging the stock, bond, and cryptocurrencies, a pie chart is generated to gi
 
 ![pie chart](https://user-images.githubusercontent.com/84649228/127779015-089058b9-1944-414b-a70b-cafe718680eb.png)
 
-Evaluating the clients portfolio is crutial for clients to determine if they have enough savings to build an emergcy fund into their financial plan. The application tool will advise on what decision to make. The decision making tool built into the application will consider all the data and provide one of three answers: 1) there is enough to start this fund, 2) the financial goal is reached, or 3) the client is XX dollars away from goal.
+Evaluating the clients portfolio is crutial for clients to determine if they have enough savings to build an emergcy fund into their financial plan. The application tool will advise on what decision to make. The decision making tool built into the application will consider all the data and provide one of three answers: 1) there is enough in this fund, 2) the financial goal is reached, or 3) the client is XX dollars away from goal.
 
 **Financial Planner for Retirement**
 
