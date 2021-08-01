@@ -66,7 +66,7 @@ conda install matplotlib
 ```
 
 
-As we are using Alpaca to pull current data, you will need to use your Alpaca key and secret key to pull in the information. This will be housed in a *.env* file. A sample file has been provided, so you can save your keys there to help run the application. This install below will aid in extracting the necessary information from the *.env* file to use Alpaca
+As we are using Alpaca to pull current data, you will need to use your Alpaca key and secret key to pull in the information. This will be housed in a *.env* file. A sample file has been provided, so you can save your keys. This install below will aid in extracting the necessary information from the *.env* file to use Alpaca.
 
 ```
 !pip install python-dotenv
